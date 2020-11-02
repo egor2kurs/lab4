@@ -12,14 +12,7 @@ namespace Lab4
 
             var list1 = new List<string>();
             var list2 = new List<string>();
-            //List<string>.Owner user1 = new List<string>.Owner();//  
-            //user1.ID = 12344;                                   //
-            //user1.name = "ITADAKIMASU!";                        //
-            //user1.organisation = "OOO Oscorp";                  //   OWNER
-            //List<string>.Owner user2 = new List<string>.Owner();//
-            //user2.ID = 2141232;                                 //
-            //user2.name = "HOKAGE";                              //
-            //user2.organisation = "Kage bunshin no jutsu";       //
+  
             List<string>.Date date1 = new List<string>.Date();  //date
             list1.Add("1Первый");
             list1.Add("1Второй");
